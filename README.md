@@ -1,7 +1,7 @@
 # ConflictsHappen
 
-Ther eare many lines in any file
+There are many lines in any file
 
-Sometines, folks will chgnae the smae line
+Sometimes, folks will chgnae the smae line
 
 Let's do this!
