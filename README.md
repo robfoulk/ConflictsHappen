@@ -2,6 +2,6 @@
 
 Ther eare many lines in any file
 
-Sometines, folks will chgnae the smae line
+Sometines, folks will change the same line
 
 Let's do this!
